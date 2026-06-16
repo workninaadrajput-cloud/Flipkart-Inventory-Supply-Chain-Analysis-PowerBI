@@ -99,7 +99,7 @@ The dataset was cleaned and transformed using Power Query:
 
 ## 📷 Dashboard Preview
 
-![Dashboard](Images/dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
